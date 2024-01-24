@@ -57,7 +57,7 @@ const Coins = () => {
       
     </RadioGroup>   
 
-      <HStack wrap={'wrap'}>
+      <HStack wrap={'wrap'} justifyContent={'space-evenly'}>
   
        {coins.map((i)=>(
           <CoinCard

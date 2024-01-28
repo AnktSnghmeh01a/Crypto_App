@@ -76,4 +76,4 @@ const ExchangeCard = ({name,img,rank,url})=>(
 
 
 )
-export default Exchanges
+export default Exchanges;
